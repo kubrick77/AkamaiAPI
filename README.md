@@ -1,3 +1,0 @@
-# AkamaiAPI
-AkamaiAPI
-TEST TEST
